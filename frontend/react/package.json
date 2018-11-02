@@ -1,0 +1,23 @@
+{
+  "name": "velocity",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "axios": "0.18.0",
+    "chart.js": "^2.7.2",
+    "react": "16.3.2",
+    "react-chartjs-2": "^2.7.4",
+    "react-dom": "16.3.2",
+    "react-scripts": "1.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "proxy": "http://192.168.8.104:3001"
+}

@@ -1,0 +1,10 @@
+tbody{
+    display: block;
+    overflow: auto;
+    height:500px;
+    width: 100%;
+}
+
+thead tr{
+    display: block;
+}
